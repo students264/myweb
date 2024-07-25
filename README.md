@@ -1,2 +1,3 @@
 # myweb
-this is my first gir repository
+this is my first gir repository.
+Author-kumarjit das
