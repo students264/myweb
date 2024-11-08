@@ -1,0 +1,12 @@
+@keyframes run{
+    0%{transform:translateX(-500px)};
+    50%{transform:translateX(0px);}
+    100%{transform:translateX(1200px);}
+}
+.left-right{
+    animation-name:run;
+    animation-duration:15s;
+    animation-delay:2s;
+    animation-iteration-count:infinite;
+    color:aqua;
+}
